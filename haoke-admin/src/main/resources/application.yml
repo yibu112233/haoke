@@ -1,0 +1,26 @@
+spring:
+ application:
+   name: haoke-admin
+ zipkin:
+  base-url: http://localhost:8076/
+
+
+server:
+   port: 8077
+
+management:
+ endpoint:
+   health:
+     show-details: always
+ endpoints:
+   web:
+    exposure:
+      include: ["health","info"]
+
+
+
+eureka:
+ client:
+   serviceUrl:
+      defaultZone: http://localhost:8061/eureka/
+

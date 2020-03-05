@@ -1,0 +1,22 @@
+spring:
+ application:
+   name: haoke-eureka
+ zipkin:
+   base-url: http://localhost:8076/
+ boot:
+   admin:
+     client:
+        url: http://localhost:8077/
+server:
+   port: 8061
+
+eureka:
+  instance:
+    hostname: localhost
+
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+

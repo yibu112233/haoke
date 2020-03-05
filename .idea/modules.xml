@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/haoke_parent/hk-framework-parent.iml" filepath="$PROJECT_DIR$/haoke_parent/hk-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-config/hk-service-config.iml" filepath="$PROJECT_DIR$/haoke-config/hk-service-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke_eureka/hk-service-eureka.iml" filepath="$PROJECT_DIR$/haoke_eureka/hk-service-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-redis/hk-service-redis.iml" filepath="$PROJECT_DIR$/haoke-redis/hk-service-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-sso/hk-service-sso.iml" filepath="$PROJECT_DIR$/haoke-sso/hk-service-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke_user/hk-service-user.iml" filepath="$PROJECT_DIR$/haoke_user/hk-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke_util/hk-service-util.iml" filepath="$PROJECT_DIR$/haoke_util/hk-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-zuul/hk-service-util (1) (com.haoke.zuul).iml" filepath="$PROJECT_DIR$/haoke-zuul/hk-service-util (1) (com.haoke.zuul).iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-zipkin/hk-service-zipkin.iml" filepath="$PROJECT_DIR$/haoke-zipkin/hk-service-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-admin/hk-service-zipkin (1).iml" filepath="$PROJECT_DIR$/haoke-admin/hk-service-zipkin (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoke.iml" filepath="$PROJECT_DIR$/hoke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke_parent/xc-service-manage-cms.iml" filepath="$PROJECT_DIR$/haoke_parent/xc-service-manage-cms.iml" />
+    </modules>
+  </component>
+</project>

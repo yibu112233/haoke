@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="hk-framework-parent" target="1.8" />
+      <module name="hk-service-config" target="1.8" />
+      <module name="hk-service-eureka" target="1.8" />
+      <module name="hk-service-redis" target="1.8" />
+      <module name="hk-service-sso" target="1.8" />
+      <module name="hk-service-user" target="1.8" />
+      <module name="hk-service-util" target="1.8" />
+      <module name="hk-service-util (1) (com.haoke.zuul)" target="1.8" />
+      <module name="hk-service-zipkin" target="1.8" />
+      <module name="hk-service-zipkin (1)" target="1.8" />
+      <module name="xc-service-manage-cms" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

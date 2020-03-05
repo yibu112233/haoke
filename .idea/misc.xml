@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/haoke_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke_util/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke_user/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-config/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-sso/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

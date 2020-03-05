@@ -1,0 +1,18 @@
+spring:
+ application:
+   name: haoke-service-util
+ zipkin:
+   base-url: http://localhost:8076/
+ boot:
+      admin:
+       client:
+        url: http://localhost:8077
+
+server:
+   port: 8073
+
+eureka:
+ client:
+   serviceUrl:
+      defaultZone: http://localhost:8061/eureka/
+

@@ -182,6 +182,7 @@
     <orderEntry type="library" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
     <orderEntry type="library" name="Maven: de.codecentric:spring-boot-admin-starter-client:2.0.1" level="project" />
     <orderEntry type="library" name="Maven: de.codecentric:spring-boot-admin-client:2.0.1" level="project" />
+    <orderEntry type="library" name="Maven: net.iharder:base64:2.3.9" level="project" />
     <orderEntry type="module" module-name="hk-framework-parent" />
   </component>
 </module>
